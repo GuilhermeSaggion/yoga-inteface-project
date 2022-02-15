@@ -1,0 +1,124 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #e5e5e5;
+    font-family: 'Roboto', sans-serif;
+}
+
+.symbol-yoga {
+    display: block;
+    margin: 195px auto 122.65px auto;
+    width: 73.15px;
+    Height: 63.35px;
+}
+
+.email {
+    display:block;
+    margin: 0px auto 21px auto;
+    width: 321px;
+    height: 46px;
+    border-radius: 10px;
+    background-color: #F6F6F6;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border: none;
+}
+
+.email::placeholder {
+    padding: 15px 233.66px 14px 19.28px;
+    width: 66.92px;
+    height: 17px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+}
+
+.password {
+    display:block;
+    margin: 0px auto 35px auto;
+    width: 321px;
+    height: 46px;
+    border-radius: 10px;
+    background-color: #F6F6F6;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border:none;
+}
+
+.password::placeholder {
+    display: block;
+    padding: 15px 233.66px 14px 19.28px;
+    width: 66.92px;
+    height: 17px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+}
+
+.forgot-password {
+    display: block;
+    margin: 0px 59px 38px 253px;
+    text-decoration: none;
+    width: 102px;
+    height: 15px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+}
+
+button {
+    display: block;
+    margin: 0px auto 21px auto;
+    background-color: #323232;
+    width: 133px;
+    height: 46px;
+    border-radius: 10px;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.p1 {
+    display: block;
+    margin: 0px auto 62px auto;
+    width: 240px;
+    height: 18px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #969696;
+}
+
+.p2 {
+    display: block;
+    margin: 0px auto 18.5px auto;
+    width: 128;
+    height: 29;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+}
+
+.google {
+    width: 36px;
+    height: 36px;
+    margin: 0px 16.5px 82px 134px;
+}
+
+.social-media {
+    width: 39px;
+    height: 39px;
+    margin: 0px 16.5px 80.5px 0px;
+}
+
+.facebook {
+    width: 37px;
+    height: 36px;
+    margin: 0px 100px 80px 0px;
+}
